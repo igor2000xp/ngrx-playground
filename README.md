@@ -1,5 +1,12 @@
 # NgrxPlayground
 
+This project relates with:
+
+    Article [on NgRx.io - Feature Creators](https://ngrx.io/guide/store/feature-creators),
+    Video [Angular NgRx - How to use Feature Creator (API Overview, 2023)](https://youtu.be/bHw8SV4SNUU),
+    And my page for students of The RS SChool: [Create reducers](https://www.notion.so/Create-reducers-b1881581ab6d469fbdaf6e9307a28cd8#60e396793c2e406c8dc0726a064f0e4d)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
 ## Development server
